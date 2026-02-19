@@ -26,7 +26,7 @@
 ## 🚀 Installation
 
 ### Option 1: Download pre-built .exe
-1. Go to [Releases](https://github.com/YOUR_USERNAME/SysWatch/releases)
+1. Go to [Releases](https://github.com/VladislavPimenov/SysWatch/releases)
 2. Download the latest `SysWatch.exe`
 3. Run it! (no installation required)
 
